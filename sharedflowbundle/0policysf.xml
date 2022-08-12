@@ -1,0 +1,14 @@
+<SharedFlowBundle revision="4" name="0policysf">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1660307562471</CreatedAt>
+    <LastModifiedAt>1660307562471</LastModifiedAt>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>OAuth-v20-1</Policy>
+    </Policies>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+    <subType>SharedFlow</subType>
+</SharedFlowBundle>
