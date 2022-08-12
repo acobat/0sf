@@ -35,7 +35,7 @@
         <FormParams/>
         <!-- <Verb>GET</Verb> -->
         <Path/>
-        <Payload>All works!</Payload>
+        <Payload>All works2!</Payload>
     </Set>
     <AssignVariable>
         <Name>name</Name>
